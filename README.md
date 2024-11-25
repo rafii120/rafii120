@@ -23,19 +23,19 @@
 <!-- Connect with Me Section with Enhanced Hover Effects -->
 <h3 align="center">Connect with Me</h3>
 <p align="center">
-    <a href="https://stackoverflow.com/users/23995899" target="_blank" rel="noopener noreferrer">
+    <a href="" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="40" height="40" class="hover-icon"/>
     </a>
-    <a href="https://fb.com/dam rins" target="_blank" rel="noopener noreferrer">
+    <a href="" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" class="hover-icon"/>
     </a>
-    <a href="https://instagram.com/idhammzy_" target="_blank" rel="noopener noreferrer">
+    <a href="" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" class="hover-icon"/>
     </a>
-    <a href="https://www.youtube.com/c/idhamzys" target="_blank" rel="noopener noreferrer">
+    <a href="" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" class="hover-icon"/>
     </a>
-    <a href="https://discord.gg/https://discord.com/invite/AZPgeHFq" target="_blank" rel="noopener noreferrer">
+    <a href="" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40" class="hover-icon"/>
     </a>
 </p>
