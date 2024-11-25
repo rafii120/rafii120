@@ -1,153 +1,142 @@
-![image alt](https://github.com/rafii120/rafii120/blob/923dd4afd340338e593ca33bcd8b596495baa6fc/895.jpg)
+![image alt]()
 
 <!-- Header Section with Advanced Typing Animation and 3D Coding GIF -->
 <div align="center">
     <h1 class="animated-header">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=33FF33&center=true&vCenter=true&width=1000&lines=With+me+Idham+💗+Candini;Welcome+to+my+GitHub+idhamzy22+Profile;Explore+my+projects,+Came+on!!+✈️" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=33FF33&center=true&vCenter=true&width=1000&lines=With+me+Idham+💗+Candini;Welcome+to+my+GitHub+idhamzy22+Profile;Explore+my+projects,+Came+on!!" alt="Typing SVG"/>
     </h1>
+    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" alt="3D Coding GIF"/>
 </div>
 
 <!-- Introduction with Icons and Enhanced Layout -->
-<div align="center" style="font-family: Arial, sans-serif; color: #1F618D;">
-<h3 style="font-size: 28px; font-weight: bold; color: #2ECC71;">🏫 I am a student of <span style="color: #3498DB;">Informatics Engineering</span> at <span style="color: #F39C12;">Esa Unggul University</span> 🏫</h3>
-    <p style="font-size: 18px; line-height: 1.8; color: #34495E;">
-        <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
-        <span style="color: #16A085;">Currently working on programming languages: <strong style="color: #2ECC71;">PHP, C, C++, Python</strong>.</span><br>
-        <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
-        <span style="color: #16A085;">Learning <strong style="color: #8E44AD;">Front-end Development</strong>.</span><br>
-        <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
-        <span style="color: #16A085;">Looking to <strong style="color: #E67E22;">collaborate</strong> on exciting projects.</span><br>
-        <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
-        <span style="color: #16A085;">Open to networking with <strong style="color: #2980B9;">full-stack developers</strong>.</span><br>
-        <img src="https://img.icons8.com/color/24/checkmark.png" alt="checkbox"/> 
-        <span style="color: #16A085;">Reach me at <strong style="color: #C0392B;">idhamzyy@gmail.com</strong>.</span>
+<div align="center">
+    <h3>I'm a student from Esa Unggul University studying Informatics Engineering.</h3>
+    <p>
+        <img src="https://img.icons8.com/ios-filled/20/000000/checked-checkbox.png" alt="checkbox"/> Currently working on programming languages: PHP, C, C++, Python.<br> 
+        <img src="https://img.icons8.com/ios-filled/20/000000/checked-checkbox.png" alt="checkbox"/> Learning Front-end Development.<br> 
+        <img src="https://img.icons8.com/ios-filled/20/000000/checked-checkbox.png" alt="checkbox"/> Looking to collaborate on exciting projects.<br> 
+        <img src="https://img.icons8.com/ios-filled/20/000000/checked-checkbox.png" alt="checkbox"/> Open to networking with full-stack developers.<br> 
+        <img src="https://img.icons8.com/ios-filled/20/000000/checked-checkbox.png" alt="checkbox"/> Reach me at <strong>idhamzyy@gmail.com</strong>.
     </p>
 </div>
 
-<div align="center">
-  <a href="mailto:idhamzyy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord" alt="Discord" />
-  </a>
-  <a href="https://open.spotify.com/user/3145x4un6gqtst2m7bzq7hhhsdfi?si=Y0_Cx_NFTGObaB2mcymbSQ" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-333333?style=for-the-badge&logo=spotify" alt="Spotify" />
-  </a>
-    <a href="https://www.facebook.com/idham.k.na?mibextid=ZbWKwL" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-333333?style=for-the-badge&logo=facebook&logoColor=blue" alt="Facebook" />
-  </a>
-    <a href="https://www.tiktok.com/@idhamzyy?_t=8rfAi9eosQU&_r=1" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-333333?style=for-the-badge&logo=tiktok" alt="TikTok" />
-  </a>
-     <a href="https://stackoverflow.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-333333?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow" />
-  </a>
-  <a href="https://instagram.com/idhammzy_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram%20(Idham)-333333?style=for-the-badge&logo=instagram" alt="Instagram Idham" />
-  </a>
-  <a href="https://instagram.com/viandiniii" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram%20(Viandini)-333333?style=for-the-badge&logo=instagram" alt="Instagram Viandini" />
-  </a>
-</div>
-
-<!-- Languages and Tools with 3D Flip Animation -->
-<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3><br/>
+<!-- Connect with Me Section with Enhanced Hover Effects -->
+<h3 align="center">Connect with Me</h3>
 <p align="center">
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=blender" alt="Blender" />
+    <a href="https://stackoverflow.com/users/23995899" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="40" height="40" class="hover-icon"/>
     </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
+    <a href="https://fb.com/dam rins" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" class="hover-icon"/>
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
+    <a href="https://instagram.com/idhammzy_" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" class="hover-icon"/>
     </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=c" alt="C" />
+    <a href="https://www.youtube.com/c/idhamzys" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" class="hover-icon"/>
     </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+    <a href="https://discord.gg/https://discord.com/invite/AZPgeHFq" target="_blank" rel="noopener noreferrer">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40" class="hover-icon"/>
     </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
-    </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" />
-    </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=react" alt="React Native" />
-    </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
-    </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=illustrator" alt="Illustrator" />
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
-    </a>
-    <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
-    </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-    </a>
-    <a href="https://figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />
-    </a>
-    <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=vuetify" alt="Vuetify" />
-    <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-    </a>   
-    </a><br/><br/><br/>
 </p>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<div align="center">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" alt="3D Coding GIF"/>
-<br/><br/><br/>
-</div>
+<!-- Languages and Tools with 3D Flip Animation -->
+<h3 align="center">Languages and Tools</h3>
+<p align="center" class="tools-container">
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="CodeIgniter" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://gohugo.io/" target="_blank" rel="noreferrer">
+        <img src="https://api.iconify.design/logos-hugo.svg" alt="Hugo" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="IFTTT" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="Jasmine" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://www.php.net" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+        <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" class="tool-icon"/> 
+    </a> 
+    <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
+        <img src="https://bestofjs.org/logos/vuetify.svg" alt="Vuetify" width="40" height="40" class="tool-icon"/> 
+    </a> 
+</p>
 
 <!-- GitHub Stats and Top Languages with Flip Animation -->
 <div align="center">
